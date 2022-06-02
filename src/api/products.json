@@ -1,0 +1,53 @@
+
+[
+  {
+    "id": 1,
+    "name": "Sneakers",
+    "price": 100 ,
+    "image": "/images/1.jfif"
+    
+   
+  },
+  {
+    "id": 2,
+    "name": "Black blouse",
+    "price": 400 ,
+    "image": "/images/6.jfif"
+   
+   
+  },
+  {
+    "id": 3,
+    "name": "Blouse",
+    "price": 350,
+    "image": "/images/4.jfif"
+   
+  },
+  {
+    "id": 4,
+    "name": "blackBag",
+    "price": 250,
+    "image": "/images/7.jfif"
+    
+    
+  
+  }
+  ,
+  {
+    "id": 5,
+    "name": "bag",
+    "price": 500 ,
+    "image": "/images/2.jfif"
+    
+   
+  },
+  
+  {
+    "id":6,
+    "name": "shoes",
+    "price": 350 ,
+    "image": "/images/3.jfif"
+  
+   
+  }
+]
